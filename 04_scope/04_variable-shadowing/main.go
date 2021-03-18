@@ -12,3 +12,4 @@ func main() {
 }
 
 // don't do this; bad coding practice to shadow variables
+// mark mark mark

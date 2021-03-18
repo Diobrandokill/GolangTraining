@@ -6,7 +6,7 @@ var x = 0
 
 func increment() int {
 	x++
-	return x
+	return increment()
 }
 
 func main() {

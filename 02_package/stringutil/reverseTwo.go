@@ -7,6 +7,5 @@ func reverseTwo(s string) string {
 	}
 	return string(r)
 }
-
 // this demonstrates how an unexported function
 // can be used by an exported function in the same package

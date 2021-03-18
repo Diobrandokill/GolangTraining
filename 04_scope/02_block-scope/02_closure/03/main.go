@@ -1,9 +1,9 @@
 package main
 
 import "fmt"
-
+var x = 110
 func main() {
-	x := 0
+	//x := 0
 	increment := func() int {
 		x++
 		return x
