@@ -8,7 +8,7 @@ func main() {
 
 // IMPORTANT
 // to run this code:
-// go run *.go
+// go run *.go in this way, the code can be run
 // ---- OR ----
 // go build
 //./05_same-package
